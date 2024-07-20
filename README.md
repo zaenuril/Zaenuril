@@ -1,5 +1,6 @@
-## Hi there 👋
+## <p align="center"> ✨README IS CURRENTLY UNDER MAINTENANCE✨ </p>
 
+## <p align="center"> Be Patient :3 </p>
 <!--
 **zaenuril/Zaenuril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
