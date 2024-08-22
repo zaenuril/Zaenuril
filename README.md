@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zaenurilrimuru@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: likes crepes so much
+- ⚡ Fun fact: I like crepes so much
 
 ## <p align="center"> [![Discord Presence](https://lanyard.kyrie25.me/api/674610158722220032)](https://discord.com/users/674610158722220032/useDisplayName=true) </p>
