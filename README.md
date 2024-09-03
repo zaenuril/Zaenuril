@@ -7,15 +7,13 @@
 - ⚡ Fun fact: I like crepes so much
 
 ---
+
 <div align="center">
 [![](https://visitcount.itsvg.in/api?id=zaenuril&icon=9&color=0)](https://visitcount.itsvg.in)
 </div>
----
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@zaenuril/e5c44e89-c033-45b5-8992-6470416818aa.svg"></embed></figure>
----
 
 ---
 ## 🌐 Socials:
@@ -28,7 +26,7 @@
 
 ---
 
-<div dsplay="flex" gap="5px">
+<div display="flex">
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zaenuril&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
