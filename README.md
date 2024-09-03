@@ -8,8 +8,7 @@
 
 ---
 
-## <p align="center"> [![Discord Presence](https://lanyard.kyrie25.me/api/674610158722220032)](https://discord.com/users/674610158722220032/useDisplayName=true) </p>
-
+<figure><embed src="https://wakatime.com/share/@zaenuril/e5c44e89-c033-45b5-8992-6470416818aa.svg"></embed></figure>
 ---
 
 
@@ -40,3 +39,9 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=zaenuril&icon=9&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## <p align="center"> [![Discord Presence](https://lanyard.kyrie25.me/api/674610158722220032)](https://discord.com/users/674610158722220032/useDisplayName=true) </p>
+
+---
