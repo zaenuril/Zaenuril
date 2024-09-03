@@ -7,15 +7,6 @@
 - ⚡ Fun fact: I like crepes so much
 
 ---
-
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=zaenuril&icon=9&color=0)](https://visitcount.itsvg.in)
-</div>
-
----
-
-
----
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaenrll) 
 
