@@ -11,7 +11,7 @@
 <figure><embed src="https://wakatime.com/share/@zaenuril/e5c44e89-c033-45b5-8992-6470416818aa.svg"></embed></figure>
 ---
 
-
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaenrll) 
 
