@@ -29,10 +29,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zaenuril&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
+<div display="flex" gap="5px">![](https://github-profile-trophy.vercel.app/?username=zaenuril&theme=radical&no-frame=false&no-bg=true&margin-w=4)</div>
 
 ---
 
