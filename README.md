@@ -1,7 +1,7 @@
 - 👋 Hewwo, my name is Muhammad Zaenuril Hakim
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on uhh... idk bruh, that's tough
 - 📫 How to reach me zaenurilrimuru@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like crepes so much
@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div display="flex" gap="5px">![](https://github-profile-trophy.vercel.app/?username=zaenuril&theme=radical&no-frame=false&no-bg=true&margin-w=4)</div>
+![](https://github-profile-trophy.vercel.app/?username=zaenuril&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
