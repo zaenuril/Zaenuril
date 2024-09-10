@@ -1,5 +1,4 @@
-
-<div> 
+<div align="center"> 
     <img src="[koseki-bijou](https://github.com/user-attachments/assets/4736aa8d-5e1c-4b6d-8710-d16df4cf1d10)"> 
 </div>
 
