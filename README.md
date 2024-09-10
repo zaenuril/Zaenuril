@@ -1,4 +1,6 @@
-![](https://media1.tenor.com/m/SLMq2P8Z6gwAAAAd/koseki-bijou-koseki.gif)
+
+![Uploading koseki-bijou-koseki.gif…]()
+
 ---
 - 👋 Hewwo, my name is Muhammad Zaenuril Hakim
 - 👀 I’m interested in web development
