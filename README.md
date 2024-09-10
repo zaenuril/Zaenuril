@@ -1,5 +1,4 @@
-
-![Uploading koseki-bijou-koseki.gif…]()
+![koseki-bijou-koseki](https://github.com/user-attachments/assets/4736aa8d-5e1c-4b6d-8710-d16df4cf1d10)
 
 ---
 - 👋 Hewwo, my name is Muhammad Zaenuril Hakim
