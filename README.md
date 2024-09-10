@@ -1,7 +1,6 @@
 ![koseki-bijou-koseki](https://github.com/user-attachments/assets/4736aa8d-5e1c-4b6d-8710-d16df4cf1d10)
 
 ---
-![koseki-bijou-koseki](https://github.com/user-attachments/assets/b5c94df8-c49e-4431-803c-8146b0159ab0)
 
 - 👋 Hewwo, my name is Muhammad Zaenuril Hakim
 - 👀 I’m interested in web development
