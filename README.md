@@ -1,5 +1,5 @@
-<div align="center"> 
-    <img src="[koseki-bijou](https://github.com/user-attachments/assets/4736aa8d-5e1c-4b6d-8710-d16df4cf1d10)"> 
+<div align="center">
+  <img src="https://tenor.com/id/view/biboo-dance-gif-4949428245706424540.gif" alt="koseki" style="height:190px"  />
 </div>
 
 ---
