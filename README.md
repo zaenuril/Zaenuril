@@ -41,9 +41,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-<img src="![](https://github-profile-trophy.vercel.app/?username=zaenuril&theme=radical&no-frame=false&no-bg=true&margin-w=4)">
-</div>
+
+![](https://github-profile-trophy.vercel.app/?username=zaenuril&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 
 ## <p align="center"> [![Discord Presence](https://lanyard.kyrie25.me/api/674610158722220032)](https://discord.com/users/674610158722220032/useDisplayName=true) </p>
