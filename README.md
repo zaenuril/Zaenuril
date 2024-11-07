@@ -31,8 +31,6 @@
 
 ---
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
 ```text
 💬 Programming Languages: 
 C++                      3 hrs 42 mins       █████████████████████████   99.64 % 
