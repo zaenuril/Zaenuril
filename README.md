@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img src="https://tenor.com/id/view/biboo-dance-gif-4949428245706424540.gif" alt="koseki" style="height:190px"  />
 </div>
@@ -29,7 +30,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
----
+-->
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -43,7 +45,7 @@ Lua                      0 secs              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
+<!--
 
 ## <p align="center"> [][Discord Presence](https://lanyard.kyrie25.me/api/674610158722220032)](https://discord.com/users/674610158722220032/useDisplayName=true) </p>
 
@@ -51,3 +53,4 @@ Lua                      0 secs              ░░░░░░░░░░░�
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="80" />
 </div>
+-->
