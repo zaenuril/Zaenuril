@@ -32,10 +32,28 @@
 
 -->
 
+```sh
+                     ./o.                   sherina@endeavouros
+                   ./sssso-                 -------------------
+                 `:osssssss+-               OS: EndeavourOS x86_64
+               `:+sssssssssso/.             Host: VivoBook_ASUSLaptop M1403QA_M1403QA (1.0)
+             `-/ossssssssssssso/.           Kernel: Linux 6.11.2-arch1-1
+           `-/+sssssssssssssssso+:`         Uptime: 17 days
+         `-:/+sssssssssssssssssso+/.        Packages: 1341 (pacman)
+       `.://osssssssssssssssssssso++-       Shell: zsh 5.9
+      .://+ssssssssssssssssssssssso++:      WM: bspwm (x11) 
+    .:///ossssssssssssssssssssssssso++:     Ram: 4355 / 16140 MB
+  `:////ssssssssssssssssssssssssssso+++.    
+`-////+ssssssssssssssssssssssssssso++++-    
+ `..-+oosssssssssssssssssssssssso+++++/`    
+   ./++++++++++++++++++++++++++++++/:.      
+  `:::::::::::::::::::::::::------``  
+```
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
-```text
+```txt
 💬 Programming Languages: 
 C++                      4 hrs 47 mins       █████████████████████████   99.55 % 
 conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
