@@ -56,7 +56,7 @@
 
 ```text
 💬 Programming Languages: 
-C++                      45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
