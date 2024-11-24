@@ -19,6 +19,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           BLOCKS: -> # optional
-          CODE_LANG: cpp # optional
+          CODE_LANG: txt # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 5 # optional
