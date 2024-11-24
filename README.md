@@ -52,13 +52,14 @@
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+```rust
+JavaScript     25 hrs 49 mins  >>>>>>-------------------   25.00 %
+C++            20 hrs 59 mins  >>>>>--------------------   20.32 %
+CSS            20 hrs 36 mins  >>>>>--------------------   19.96 %
+HTML           18 hrs 57 mins  >>>>>--------------------   18.36 %
+Lua            12 hrs 38 mins  >>>----------------------   12.25 %
 ```
-
 
 <!--END_SECTION:waka-->
 
