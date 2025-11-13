@@ -51,7 +51,7 @@
 ```
 ---
 
-<!--START_SECTION:waka-->
+[//]: # (wakatime-stats)
 
 ```sh
 JavaScript     25 hrs 49 mins  >>>>>--------------------   21.24 %
@@ -62,7 +62,8 @@ C#             17 hrs 8 mins   >>>>---------------------   14.10 %
 Lua            12 hrs 38 mins  >>>----------------------   10.40 %
 ```
 
-<!--END_SECTION:waka-->
+[//]: # (end-wakatime-stats)
+
 
 <!--
 
