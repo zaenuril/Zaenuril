@@ -3,7 +3,7 @@
  on:
  workflow_dispatch:
  schedule:
- - cron: '0 0 * * *'  # Run at midnight every day
+ - cron: '0 */12 * * *'  # Run at midnight every day
 
  jobs:
  update-readme-with-wakatime-stats:
@@ -16,7 +16,7 @@
 
    - uses: claserre9/wakatime-stats@vmaster
      with:
-       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+       WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
        WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
        GH_TOKEN: ${{ secrets.GH_NEW_TOKEN }}
        TABLE_STYLE: 'default' # (optional) can be 'default','box' or 'box-double'
