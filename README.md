@@ -53,10 +53,6 @@
 
 [//]: # (wakatime-stats)
 
-```sh
-
-```
-
 [//]: # (end-wakatime-stats)
 
 
