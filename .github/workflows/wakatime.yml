@@ -1,24 +1,23 @@
- name: Wakatime Stats
+name: Waka Readme
 
- on:
- workflow_dispatch:
- schedule:
- - cron: '0 */12 * * *'  # Run at midnight every day
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "* * * * *"
 
- jobs:
- update-readme-with-wakatime-stats:
- name: Update README with Wakatime stats
- runs-on: ubuntu-latest
-
- steps:
-   - name: Checkout code
-     uses: actions/checkout@v2
-
-   - uses: claserre9/wakatime-stats@vmaster
-     with:
-       WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-       WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
-       GH_TOKEN: ${{ secrets.GH_NEW_TOKEN }}
-       TABLE_STYLE: 'default' # (optional) can be 'default','box' or 'box-double'
-       MAX_LANGUAGES: '5' # (optional) any number > 5, if under 5, this will be set to 5
-       WAKATIME_TIME_RANGE: 'all_time' # (optional) can be 'last_7_days', 'last_30_days', 'last_6_months' or 'last_year'
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+        # this action name
+      - uses: athul/waka-readme@master # do NOT replace with anything else
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }} # required
+          ### meta
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 5 # optional
