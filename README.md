@@ -31,7 +31,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 -->
-
+---
 ```sh
                      ./o.                   sherina@endeavouros
                    ./sssso-                 -------------------
@@ -49,6 +49,7 @@
    ./++++++++++++++++++++++++++++++/:.      
   `:::::::::::::::::::::::::------``  
 ```
+---
 ---
 
 <!--START_SECTION:waka-->
